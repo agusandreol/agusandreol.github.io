@@ -1,0 +1,36 @@
+{
+  "name": "air",
+  "version": "1.0.0",
+  "description": "air gallery biennial site",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base public --port 4444",
+    "build": "webpack"
+  },
+  "author": "lukaslukas",
+  "license": "ISC",
+  "dependencies": {
+    "bindery": "^2.2.3",
+    "bindery-controls": "^1.1.1",
+    "firebase": "^5.7.2",
+    "geolocation": "^0.2.0",
+    "gsap": "^2.0.2",
+    "moment-timezone": "^0.5.23",
+    "needle": "^2.2.4",
+    "preact": "^8.4.2",
+    "preact-router": "^2.6.1",
+    "request": "^2.88.0",
+    "request-ip": "^2.1.3",
+    "slugify": "^1.3.4",
+    "webpack": "^4.27.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-react-jsx": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babel-loader": "^8.0.4",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
+  }
+}

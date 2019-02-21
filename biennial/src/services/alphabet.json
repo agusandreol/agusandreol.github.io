@@ -1,0 +1,402 @@
+{
+	"spaceShots" : ["spaceshots/spaceshot-0.jpg", "spaceshots/spaceshot-1.jpg", "spaceshots/spaceshot-2.jpg", "spaceshots/spaceshot-3.jpg"],
+	"floorplan" : {
+		"url" : "artworks/floorplan-31.jpg",
+		"description" : "Curating comes from the Latin <i>curare</i>, to care for. What has been curated, what has been cared for here? Perhaps: an open call process, the inviting, sorting, selecting, informing; an exhibition, the grouping of artworks and artists, their conversation with each other, their correspondences; a gallery installation, a physical display, light and color decisions; a publication, its images and stories, its structure, its syntax and distribution; a pizza party; an experience, from one side to the next."
+		},
+	"letters" : ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", ",", ":", "'", "-"],
+	"textPiece" : [
+		{
+			"title" : "text 1",
+			"content" : "It’s funny because here we are talking about listening and four out of six people around me are wearing headphones, curating their own sound environment and blocking out others. Those parties where everyone dances and listens to the same music on wireless headphones is the closest to being “in it,” together. Plus, none of the neighbors call the cops.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 2",
+			"content" : "Duo, tandem, ping pong, yin yang, back and forth, form content, good cop bad cop, push and pull, bull and bear, beauty and the beast, ben & jerry, give and take, tom & jerry, pair, couple, point counterpoint, thesis antithesis, “we”, “us 2”, &.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 3",
+			"content" : "“I hear you.” It means that I understand what you are feeling. The expression, however, seems lacking in nuance: it suggests that receiving a sound (hearing) is equal to adequate deciphering and interpretation (understanding), that speaking or feeling is the same as producing sound. Most humans are able to shut close vision, whereas they hear all the time: there is no built-in option to stop hearing. Does that suggest there is in fact no option to not understand?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 4",
+			"content" : ["Empathy is a term that appears in theories of the psychology of art, according to which visual art can make the general public experience emotions. Following this school of thought, art appreciation is not a matter of reason but of feeling. This was the late 19th century.", "How can an art object, when experienced in the 21st century, cause a form of empathy that goes beyond mirroring of individual emotion, and that reckons with difference and the difficulty of bridging? Is it the task of the exhibition to prompt such connection, to enact rather than illustrate? Is it the responsibility of the viewer, to listen rather than to project?"],
+			"counter" : 0
+		},
+		{
+			"title" : "text 5",
+			"content" : "There’s a gap between empathy as concept and empathy as act. A sick passenger is holding up the train and I’m irked. I could have been thinking of how to help. Instead, I am directing my frustration towards the system for failing to provide help and to keep me informed.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 6",
+			"content" : "The Voyager Golden Record, created over 30 years ago, has reached interstellar space, the farthest a human-made object has ever made it. What feels dated is also the closest to our future, to waves we will receive days later.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 7",
+			"content" : "40% of currently living bird species are in decline. It’s widely accepted that human activity is the main cause for such drop. Birds used to be considered the moveable words of gods, their pattern of flight spelling out guidelines for the future. No future, no birds? Or: no birds, no future? When Chinese leader Mao Zedong tried to eradicate the sparrow as part of his “Great Leap Forward” campaign, the following ecological imbalance as well as famine gave a taste of what a birdless future would hold.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 8",
+			"content" : "A curatorial process entails communicating, seeing, listening, relating, comparing, publicizing, and any combination of these. The part I invariably enjoy—yet also downplay because of logistical stress—is the moment of installation, when I’m with works in space and need to figure out the material and spatial relations (they are never what you thought they were), learning how an object resonates—or not—in physical space and how it causes trajectories of feeling and intuition. This phase brings intensified dialogue and tension with the artist, in which I learn about limits, common and uncommon cause, about the trying dance of authoring, but mostly about the importance of surprise.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 9",
+			"content" : "2018 VG 18, known as “Farout,”  is the farthest object in space identified by astronomers. “Identified” stands for producing a photographic image and measuring distance to the sun. Farout is 150 times more distant from the sun than earth is. The image in the paper resembles a Vija Celmins painting with a green PowerPoint-y arrow pointing to one of the dots on the center right. Without this graphic element, the picture would have been an object of contemplation, placing humankind as grain of sand in the vastness of space and time. The lime green line turns it into a presentation, reminding my eyes not to get lost in the whole—to focus on the measurement that separates and compares entities.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 10",
+			"content" : "As truth has become increasingly manufactured, and facts are “under attack,” I have also become less convinced by statements and theories. What I feel we need are more compelling, open-ended, and far-reaching questions. Theories loop between past and present. Questions propel into past and future.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 11",
+			"content" : "Empathy literally means “being able to feel into” (from the Greek prefix <i>em</i> + the noun <i>pathos</i>). The concept was coined in the mid-19th century in Germany, curiously coeval to the increasing alienation and mechanization of the Industrial Revolution. Recent  theories, however, say that humans are hardwired to empathize, and relate it to primal notions of survival. It suggests that <i>your</i> survival also means <i>my</i> survival; <i>that you</i>, hence, are an extension of <i>me</i>. But isn’t the empathy at stake in our time the one in which I should “feel into” someone else’s position yet not transform that other into a projection of me or my desires?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 12",
+			"content" : "A few years ago I wrote this about looking at birds: “I observe birds and I am clueless. Augurs were those Roman priests who knew how to detect signs in bird flight. They see the future. Not because they have a genetic atunedness to it, but because they master a technique over a language most of us can’t grasp: they can extract premonitory phenomena from what commoners see as random birds in random formation in the sky.”",
+			"counter" : 0
+		},
+		{
+			"title" : "text 13",
+			"content" : "Listening unfolds over time; when too brief, it turns into hearing. Listening borders on the spiritual. bell hooks writes of love and community as “acts of listening,” and as learning processes. Neither are stable nouns but ongoing verbs. They require listening to oneself and listening to others: B can’t come without A. This is what hooks calls “mutuality.”",
+			"counter" : 0
+		},
+		{
+			"title" : "text 14",
+			"content" : "Is trying enough when it comes to relating to others? Does trying mean producing awareness of one’s own limitations and prejudices?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 15",
+			"content" : "The naturalistic theory of survival would have it that you empathize with those you feel can protect you, with those who can guarantee your safety. But empathy as act of listening to the other would also require <i>not being fearful</i>: if anything, fear is about avoiding, about preemptively prohibiting. Fear numbs emotional intelligence; or, as the Fassbinder movie goes: “Fear eats the soul.”",
+			"counter" : 0
+		},
+		{
+			"title" : "text 16",
+			"content" : "When I was about seven years old, I used the word “mutual.” My babysitter was shocked I knew the term and when to use it properly. She told my parents, who then used the instance to boast about my vocabulary. That anecdote comes back to me every odd year or so. In theory and grammar, I knew what it meant; in practice, however, mutuality is still something to be perfected.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 17",
+			"content" : "The most compelling filmic scenarios of alien contact thematize language in some form or another. Whether it’s <i>Close Encounters of the Third Kind</i>, <i>Arrival</i>, or even <i>Star Wars</i>, language and its impossibility become issues, problems to be addressed and perhaps surmounted. This seems intuitively right. The other kind of alien film—the cheaper blockbuster, to use a crude generalization—focuses entirely on the interactions between humans and the aliens, assuming improbably that the aliens can communicate with us in a mutually intelligible manner.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 18",
+			"content" : "Popular scenarios of alien encounter are likely wrong. We typically model such fictional encounters on previous cultural experience with <i>other humans</i>, assuming improbably that there would be a way to communicate (whether through sounds, gestures, lights, graphical and visual notation) that could be perceived along a standard range of human stimuli. Any communication with aliens would likely be of an entirely different kind.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 19",
+			"content" : "One of my in-laws recently commented on contemporary culture’s increasing move towards image-based communication, which eschews the textual, the written, the spoken. She lamented this, as a regression to some “earlier” form of civilization, before the complexities of contemporary linguistics. I wondered aloud, what if this is actually a more compelling state: a revival of communications that are more direct in their relationship to the world? What if this is a return to a time before the Tower of Babel? She seemed unconvinced.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 20",
+			"content" : "One strain of conceptual graphic design, particularly in the 2000s, resolutely separated text and image within a layout. Rather than following a more conventional logic of pairing together an illustration with a caption, this kind of approach instead differentiated them so that they followed two foreign logics. For example, all images might run along the tops of the pages, with texts arranged on a different grid. Or a physical segregation of the two might happen through different paper stocks or trim sizes. How do such material strategies survive in an era of digital reading, where both texts and images, regardless of how they are rendered, all arise from invisible 1s and 0s?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 21",
+			"content" : "My sister-in-law’s boyfriend remarked, while watching a flurry of waves crash upon the Mexican beach: “You know, waves are fractal.” He continued with the observation that waves, if you examine them in enough detail, will reveal self-similar sets of structures. This is what makes waves beautiful, he added. I wonder, naively, if this idea of infinite resolution, that something like a wave (or likely any number of other structures in the world) can be examined at any scale, is why humans can observe them forever.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 22",
+			"content" : "Rachel Cusk’s <i>Outline</i> is a novel in the form of ten conversations, each a chapter. Every one is a story or several, delivered by a different character to (or at, in many cases) the book’s writer-narrator in a particular voice and speed. Each one captures some human frailty or even more ephemeral flow in a memorable way, while revealing painfully little about the narrator herself except through absence. If an exhibition is a novel and its artists are each a chapter, what do the absences—the pauses between these individual monologues—reveal about their interlocutor?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 23",
+			"content" : ["<i>interlocution</i>, n.<br />in·​ter·​lo·​cu·​tion | \\ˌintə(r)lōˈkyüshən, -ləˈ-\\", "Definition of interlocution", "1 : interchange of speech : CONVERSATION<br />2 : an interruptive utterance : INTERRUPTION, INTERPOLATION, PARENTHESIS<br />3a <i>obsolete</i> : responsive reading or recital<br />b <i>obsolete</i> : a speech in reply : RESPONSE<br />c : mode of intercommunication<br />4a [ Late Latin <i>interlocution-</i>, <i>interlocutio</i>, from Latin ] : the making of an interlocutory legal order or decree<br />also : the order or decree<br />b Roman law : a constitution of the emperor in the form of an informal expression of the imperial wish"],
+			"counter" : 0
+		},
+		{
+			"title" : "text 24",
+			"content" : "I recently learned a new word: <i>exogenesis</i>, which is apparently both a biological theory and the title of an episode of a science fiction television program. Exogenesis is the theory that organic life may have first formed elsewhere in the universe. How exactly this might have happened is a whole other question, but at its core there’s a relevant question: if humans were, actually, aliens, then what might this say about our relationship to (and rampant colonization and destruction of) the very globe that we live on?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 25",
+			"content" : "Since last year, I’ve tried to stop using the terms “form” vs. “content”. Although a dialectic, there’s a common misconception (especially within the art and design fields) that it is possible to have one without the other. Rather, I prefer the nomenclature of <i>structures</i>, <i>stories</i>, and the <i>social sphere</i>, with an emphasis on the triangular relationship of mutual interdependence and influence between them.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 26",
+			"content" : "Our contemporary mode of counting, of structuring numerical sequences, is likely more ingrained in our bodies than we’d like to imagine. For example, ten fingers create the decimal system. Knowing, for example, the system that ancient Hindus used to count to 100 with two hands in a non-ambiguous manner only emphasizes the idea that there is something quite specific to an organism about its way of ordering. We have a whole contemporary civilization and its digital technologies built upon these essential units. What might an alien technology, one built not around 10s but rather upon another structure and sequence, perhaps related to their bodies, look like?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 27",
+			"content" : "You can’t close your ears without using your hands. However, sound proves to be a powerful force in shaping our experience of the world. A simple track of white or pink noise—or the even more basic variant of endlessly crashing waves at the beach—lulls the mind into a relaxed, focused state. On the other hand, the uptempo track at a Manhattan restaurant encourages quick consumption and a speedy exit. How we sound can’t be easily disentangled from what others feel.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 28",
+			"content" : "What happened to the days of a <i>communal</i> experience of sound? When you might sit in a room, office, studio, or other environment together with other people, all listening to the same track? Nowadays, the most ubiquitous and effective markers of physical separation seem to be headphones. Whereas Apple’s early earbuds, with their gleaming white finish and snaking cables, pointed resolutely to their source, the newer trend towards Bluetooth headphones effaces their connection to a single audio origin. Where is today’s sound coming from? What if it is broadcast from further and further away, the headphones eventually interfacing invisibly to some cosmic transmitter?",
+			"counter" : 0
+		},
+		{
+			"title" : "text 29",
+			"content" : "Within the animal species, humans are not particularly gifted at receiving or delivering sound. We have only a decibel range of 0 to 120db (with anything over 90db already potentially harmful to the inner ear) and a typical frequency spread of 85 to 255 Hz. Compare this to what dogs, or birds, or whales can perceive, and it seems a wonder that human speech has been a preferred medium of communication for so many thousands of years.",
+			"counter" : 0
+		},
+		{
+			"title" : "text 30",
+			"content" : "The thirty artworks in this show carry at least one thing in common: they were all sent out as messages, aesthetic <i>communiqués</i>, in hope of a response. Unlike messages in a bottle or a record shipped into space, these communications knew their ultimate destination and listeners—and so they could be tailored accordingly. The jurying and selection process operated in inverse: the receivers of these messages, those who cared for them, did not know. So they had to speculate on their sources—inventing and ascribing complex motivations, ambitions, needs, desires, intentions for those invisible yet audible senders.",
+			"counter" : 0
+		}
+	],
+	"artwork" : [
+		{
+			"title" : "Dancing in Our Sleep",
+			"url" : "artworks/artwork-1.jpg",
+			"artist" : "Angeli",
+			"date" : "2018",
+			"caption" : "performance<br />documentation Sarah Sitzler",
+			"counter" : 0
+		},
+		{
+			"title" : "OHRHUT",
+			"url" : "artworks/artwork-2.jpg",
+			"artist" : "Angie Keefer",
+			"date" : "2017",
+			"caption": "Consumer product, brand concept, corporate entity, multimedia advertising campaign",
+			"counter" : 0
+		},
+		{
+			"title" : "Manuscript I",
+			"url" : "artworks/artwork-3.jpg",
+			"artist" : "Anna Riley",
+			"date" : "2017",
+			"caption": "Modified beer bottle glass, ceramic crucible",
+			"counter" : 0
+		},
+		{
+			"title" : "Letter to Unity",
+			"url" : "artworks/artwork-4.jpg",
+			"artist" : "Catalina Viejo López de Roda",
+			"date" : "2017",
+			"caption": "Collage on paper",
+			"counter" : 0
+		},
+		{
+			"title" : "Sin Título 2017 (2)",
+			"url" : "artworks/artwork-5.jpg",
+			"artist" : "Dulce Gómez",
+			"date" : "2017",
+			"caption": "Acrylic on canvas glued on cardboard",
+			"counter" : 0
+		},
+		{
+			"title" : "Instrument #7",
+			"url" : "artworks/artwork-6.jpg",
+			"artist" : "Fotini Vurgaropulou",
+			"date" : "2015",
+			"caption": "Kilnformed glass, bouzouki strings, fish hooks",
+			"counter" : 0
+		},
+		{
+			"title" : "Margaret van Eyck–Renaming an Institution, a Case Study<br />(Volume One & Two)",
+			"url" : "artworks/artwork-7.jpg",
+			"artist" : "Hagen Verleger",
+			"date" : "2018",
+			"caption": "Books",
+			"counter" : 0
+		},
+		{
+			"title" : "Tengo Miedo; No Tenemos Miedo/<br />I’m afraid; We are not afraid",
+			"url" : "artworks/artwork-8.jpg",
+			"artist" : "Irene Mohedano",
+			"date" : "2018",
+			"caption": "performance",
+			"counter" : 0
+		},
+		{
+			"title" : "so fresh so clean",
+			"url" : "artworks/artwork-9.jpg",
+			"artist" : "Jane Long",
+			"date" : "2015",
+			"caption": "Video",
+			"counter" : 0
+		},
+		{
+			"title" : "May 2016 NY",
+			"url" : "artworks/artwork-10.jpg",
+			"artist" : "Johanna Unzueta",
+			"date" : "2016",
+			"caption": "Watercolor, pastel pencil, charcoal and needle holes on tinted watercolor paper",
+			"counter" : 0
+		},
+		{
+			"title" : "Orrery",
+			"url" : "artworks/artwork-11.jpg",
+			"artist" : "Julie Nagle",
+			"date" : "2015",
+			"caption": "Cast charcoal, glass, resin, steel",
+			"counter" : 0
+		},
+		{
+			"title" : "Silent Amplifier",
+			"url" : "artworks/artwork-12.jpg",
+			"artist" : "Karen Donnellan",
+			"date" : "2016",
+			"caption": "Blown glass, light, silver leaf",
+			"counter" : 0
+		},
+		{
+			"title" : "Tumblr Grl II",
+			"url" : "artworks/artwork-13.jpg",
+			"artist" : "Katie Hector",
+			"date" : "2016–2017",
+			"caption": "Acrylic and spray paint on shaped boards",
+			"counter" : 0
+		},
+		{
+			"title" : "Threefold",
+			"url" : "artworks/artwork-14.jpg",
+			"artist" : "Katja Mater",
+			"date" : "2018",
+			"caption": "Digitized 16 mm film, 7,83 Hz tone resonating with itself",
+			"counter" : 0
+		},
+		{
+			"title" : "Heat Wave",
+			"url" : "artworks/artwork-15.jpg",
+			"artist" : "Katy Mixon",
+			"date" : "2018",
+			"caption": "Carved oil paint on canvas",
+			"counter" : 0
+		},
+		{
+			"title" : "On Black & White",
+			"url" : "artworks/artwork-16.jpg",
+			"artist" : "Keren Benbenisty",
+			"date" : "2017",
+			"caption": "Fish skin mounted on 35mm slides (80), Kodak Slide projector",
+			"counter" : 0
+		},
+		{
+			"title" : "Family poem I",
+			"url" : "artworks/artwork-17.jpg",
+			"artist" : "Kyoung eun Kang",
+			"date" : "2013",
+			"caption": "Text on paper",
+			"counter" : 0
+		},
+		{
+			"title" : "Machine Eden<br />(with Mark von Schlegell)",
+			"url" : "artworks/artwork-18.jpg",
+			"artist" : "Library Stack",
+			"date" : "2019",
+			"caption": "Ubiquity router, wireless beacons, Distributed wireless network infrastructure, pamphlet publications at librarystack.org",
+			"counter" : 0
+		},
+		{
+			"title" : "letstrylisteningagain.org",
+			"url" : "artworks/artwork-19.jpg",
+			"artist" : "Lukas Eigler-Harding",
+			"date" : "2019",
+			"caption": "Web design and programming",
+			"counter" : 0
+		},
+		{
+			"title" : "The Visionary",
+			"url" : "artworks/artwork-20.jpg",
+			"artist" : "Malin Abrahamsson",
+			"date" : "2018",
+			"caption": "Ceramics, wood, metal wire, silicone, chalk, wool",
+			"counter" : 0
+		},
+		{
+			"title" : "Meeting of A and B",
+			"url" : "artworks/artwork-21.jpg",
+			"artist" : "Maren Henson",
+			"date" : "2017",
+			"caption": "Video",
+			"counter" : 0
+		},
+		{
+			"title" : "Untitled",
+			"url" : "artworks/artwork-22.jpg",
+			"artist" : "Matthew Schrader",
+			"date" : "no date",
+			"caption": "Magnetic viewing film, adhesive, galvanized steel, neodymium magnets, hardware",
+			"counter" : 0
+		},
+		{
+			"title" : "Leaner III",
+			"url" : "artworks/artwork-23.jpg",
+			"artist" : "Olivia Baldwin",
+			"date" : "2018",
+			"caption": "Foam, spray paint, acrylic, driftwood",
+			"counter" : 0
+		},
+		{
+			"title" : "A Primer on Working With<br />Disabled Group Members<br />for Feminist/Activist Groups",
+			"url" : "artworks/artwork-24.jpg",
+			"artist" : "Romily Alice Walden",
+			"date" : "2018",
+			"caption": "Publication",
+			"counter" : 0
+		},
+		{
+			"title" : "Semaphore Island",
+			"url" : "artworks/artwork-25.jpg",
+			"artist" : "Sari Carel",
+			"date" : "2014–ongoing",
+			"caption": "(sound element in collaboration with Ryan Brown)<br />Sound, wood, silkscreen on glass",
+			"counter" : 0
+		},
+		{
+			"title" : "Dad, Observatorio",
+			"url" : "artworks/artwork-26.jpg",
+			"artist" : "Scaleno Collective",
+			"date" : "2018, 2018",
+			"caption": "Archival pigment print, Archival pigment print",
+			"counter" : 0
+		},
+		{
+			"title" : "Hypothesis of Communication I",
+			"url" : "artworks/artwork-27.jpg",
+			"artist" : "Shuyi Cao",
+			"date" : "2018",
+			"caption": "Hand blown glass, metal, plaster,<br />rubber tube",
+			"counter" : 0
+		},
+		{
+			"title" : "An Endless Searching for Substance ",
+			"url" : "artworks/artwork-28.jpg",
+			"artist" : "Suzanne Mooney",
+			"date" : "2017",
+			"caption": "Photograph",
+			"counter" : 0
+		},
+		{
+			"title" : "Under the Moon We Sang",
+			"url" : "artworks/artwork-29.jpg",
+			"artist" : "Tselote Holley",
+			"date" : "2018",
+			"caption": "Oil, acrylic, and paper on loose canvas",
+			"counter" : 0
+		},
+		{
+			"title" : "Landscape in Red #1",
+			"url" : "artworks/artwork-30.jpg",
+			"artist" : "Zhenya Plechkina",
+			"date" : "2018",
+			"caption": "Watercolors and cotton thread on paper",
+			"counter" : 0
+		}
+	]
+}
