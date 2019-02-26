@@ -4,12 +4,6 @@
   padding: 0;
 }
 
-.📖-running-header {
-    position: absolute;
-    text-align: center;
-    bottom: .25in !important;
-}
-
 :root {
   font: 20px/1.2 serif;
 }
