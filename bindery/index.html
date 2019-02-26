@@ -33,12 +33,12 @@
         }),
         Bindery.FullBleedPage({ selector: '.med-figure' }),
         Bindery.FullBleedSpread({ selector: '.big-figure' }),
-        Bindery.RunningHeader({
+        Bindery.RunningHeader(<span style="bottom:1">{
           render: (page) => {
-            if (page.isLeft) return `<span style="bottom:1">${page.number} · ${page.heading.h1 || ''}</span>`;
+            if (page.isLeft) return `${page.number} · ${page.heading.h1 || ''}`;
             else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
           },
-        }),
+        }</span>),
         Bindery.PageReference({
           selector: ".toc a",
           replace: (element, number) => {
