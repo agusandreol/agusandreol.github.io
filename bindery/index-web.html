@@ -1,26 +1,24 @@
 
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Using Configuration</title>
-  <link rel="stylesheet" type="text/css" href="shared/style.css" />
-  
-  <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("shared/content.html"); 
-    });
-    </script> 
-  
+  <title>load demo</title>
+  <style>
+  body {
+    font-size: 12px;
+    font-family: Arial;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
-
 <body>
-  
-     <div id="includedContent"></div>
-</html>
-
+ 
+<ol id="new-projects"></ol>
+ 
+<script>
+$( "#new-projects" ).load( "shared/content.html .content" );
+</script>
+ 
 </body>
 </html>
